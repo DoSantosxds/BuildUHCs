@@ -1,0 +1,9 @@
+main: us.dosantos.buildffa.BuildFFA
+name: BuildFFA 1.0 Snapshot
+author: DoSantos_
+version: 1.0
+commands:
+  stats:
+  setspawn:
+  spawn:
+  report:
